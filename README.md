@@ -16,5 +16,5 @@ An interactive, responsive, and modern portfolio showcasing my work in AI, softw
 ✅ **Modular & Scalable** – Easy to update with reusable components and clean code structure.  
 
 ## 🌐 Live Demo
-🚀 **[Check out the Live Demo](#)** (Replace with the actual link after deployment)
+🚀 **[Check out the Live Demo](#)**: https://philsportfolio-git-main-phils-projects-61ec7570.vercel.app/
 
